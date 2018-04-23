@@ -14,6 +14,6 @@ Maven（4.0.0）
 * resources
 ## 各模块主要功能及介绍
 ### common
-存放通用工具类，包括CacheNotLoadedException（用于处理Redis缓存没有加载成功的异常）；RedisTool
+存放通用工具类，包括CacheNotLoadedException（用于处理Redis缓存没有加载成功的异常）；RedisTool（用于获取Redis分布式锁）。
 
 
